@@ -4,15 +4,9 @@ MCIM 致力于镜像 Mod 平台的 API，以帮助大陆地区的玩家获取 Mo
 
 **这是一项公益服务，请不要攻击我们**
 
-为各平台的 Mod 的 API 缓存加速，由 [MCLF-CN #3](https://github.com/MCLF-CN/docs/issues/3) 提议，由[鸣谢列表](#鸣谢)内的各位提供支持~
+为各平台的 Mod 的 API 缓存加速，由[鸣谢列表](#鸣谢)内的各位提供支持~
 
 已缓存 **绝大多数** 的 Modrinth 和 Curseforge 上的 Minecraft Mod 信息。缓存统计信息见 [mcim-statistics](https://mod.mcimirror.top/statistics)。
-
-> [!WARNING]
-> 由于多种原因，OpenMCIM 已暂停运行，MCIM API 不受影响。文件下载已自动重定向会源站。
-> 高考完后可能后可能重制后投入使用，敬请期待。
-
-效仿 [BMCLAPI](https://bmclapidoc.bangbang93.com) ，当前 OpenMCIM 文件缓存在试运行。**急需节点加入 orz ！详情见 [OpenMCIM 文件分发相关 #91](https://github.com/mcmod-info-mirror/mcim/issues/91)**。
 
 API 支持 [Curseforge](https://curseforge.com/) 和 [Modrinth](https://modrinth.com/)。
 
@@ -23,26 +17,18 @@ API 支持 [Curseforge](https://curseforge.com/) 和 [Modrinth](https://modrinth
 
 ## 使用
 
-详情见 [mcim-api](https://github.com/mcmod-info-mirror/mcim-api)
+详情见 [mcim-rust-api](https://github.com/mcmod-info-mirror/mcim-rust-api)
 
 ## 缓存相关
 
 关于缓存，详见 [mcim-sync](https://github.com/mcmod-info-mirror/mcim-sync)
 
-## OpenMCIM
-
-> [!WARNING]
-> 由于多种原因，OpenMCIM 已暂停运行，MCIM API 不受影响。文件下载已自动重定向会源站。
-> 高考完后可能后可能重制后投入使用，敬请期待。
-
-和 [OpenBMCLAPI](https://github.com/bangbang93/openbmclapi) 一样需要节点分发文件，**急需节点加入 orz ！**，见 [OpenMCIM 文件分发相关 #91](https://github.com/mcmod-info-mirror/mcim/issues/91)
-
 ## 鸣谢
 
-- [Pysio](https://github.com/pysio2007) 提供 CDN 和域名
+- [Pysio](https://github.com/pysio2007) 提供 CDN 、域名备案和文件下载
 - [BangBang93](https://blog.bangbang93.com/) 提供服务器
-- [SaltWood_233](https://github.com/SALTWOOD) 提供文件分发主控技术支持
-- [为 OpenMCIM 提供节点支持的各位](https://files.mcimirror.top/dashboard/rank)
+- [SaltWood_233](https://github.com/SALTWOOD) 提供 OpenMCIM 文件分发主控技术支持
+- 为 OpenMCIM 提供节点支持的各位
 
 ## 联系
 
