@@ -2,7 +2,7 @@ MCIM 致力于镜像 Mod 平台的 API，以帮助大陆地区的玩家获取 Mo
 
 **本镜像可能会在滥用或遭到攻击的情况下暂时关闭。**
 
-**这是一项公益服务，请不要攻击我们**
+**这是一项公益服务，请不要攻击我们，你的[赞助](#赞助)将帮助我们维持服务器运营 **
 
 为各平台的 Mod 的 API 缓存加速，由[鸣谢列表](#鸣谢)内的各位提供支持~
 
@@ -22,6 +22,12 @@ API 支持 [Curseforge](https://curseforge.com/) 和 [Modrinth](https://modrinth
 ## 缓存相关
 
 关于缓存，详见 [mcim-sync](https://github.com/mcmod-info-mirror/mcim-sync)
+
+## 赞助
+
+MCIM 是一个免费开源的项目，你的赞助将帮助我们维持服务器运营，选择合适的金额来支持 MCIM 的日常运营开销
+
+赞助链接：<https://www.mcimirror.top/sponsor>
 
 ## 鸣谢
 
