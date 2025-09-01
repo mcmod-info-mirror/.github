@@ -1,3 +1,5 @@
+[![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)](https://www.mcimirror.top/sponsor)
+
 MCIM 致力于镜像 Mod 平台的 API，以帮助大陆地区的玩家获取 Mod 信息
 
 **本镜像可能会在滥用或遭到攻击的情况下暂时关闭。**
