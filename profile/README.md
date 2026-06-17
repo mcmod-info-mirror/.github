@@ -41,7 +41,6 @@ MCIM 是一个免费开源的项目，你的赞助将帮助我们维持服务器
 ## 联系
 
 - Email: z0z0r4@outlook.com
-- QQ: 3531890582
 - QQ 群聊 [OpenMCIM](https://qm.qq.com/q/ZSN6ilHEwC)
 
 ## 声明
