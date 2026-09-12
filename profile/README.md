@@ -23,7 +23,7 @@ API 支持 [Curseforge](https://curseforge.com/) 和 [Modrinth](https://modrinth
 
 ## 缓存相关
 
-关于缓存，详见 [mcim-sync](https://github.com/mcmod-info-mirror/mcim-sync)
+关于缓存，详见 [mcim-sync (即将归档)](https://github.com/mcmod-info-mirror/mcim-sync) 以及正在试运行的 [mcim-rust-sync](https://github.com/mcmod-info-mirror/mcim-rust-sync)
 
 ## 赞助
 
