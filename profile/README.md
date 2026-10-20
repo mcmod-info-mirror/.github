@@ -3,7 +3,7 @@ MCIM 致力于镜像 Mod 平台的 API，以帮助大陆地区的玩家获取 Mo
 详情请见 <https://www.mcimirror.top>
 
 > [!Warning]
-> MCIM 暂时暂停服务，恢复日期暂不确定
+> MCIM 暂时暂停服务，恢复日期暂不确定  
 > 当前 mod.mcimirror.top 所有请求返回 503 状态码
 
 **本镜像可能会在滥用或遭到攻击的情况下暂时关闭。**
